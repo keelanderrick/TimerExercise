@@ -6,7 +6,7 @@ function countdown (num) {
             console.log('DONE!');
         }
         else {
-            console.log(time);
+            console.log(num);
         }
     }, 1000)
 }
